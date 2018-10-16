@@ -1,2 +1,17 @@
 /nbproject/private/
-/build/
+/build/ 
+# NetBeans specific
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+nbactions.xml
+nb-configuration.xml
+
+
+ # Binaries
+*.7z
+*.jar
+*.zip
+*.class 
