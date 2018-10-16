@@ -9,7 +9,6 @@ nbdist/
 nbactions.xml
 nb-configuration.xml
 
-
  # Binaries
 *.7z
 *.jar
